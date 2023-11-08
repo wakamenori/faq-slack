@@ -1,0 +1,9 @@
+slack-bolt==1.18.0
+functions-framework==3.4.0
+python-box[all]~=6.0
+langchain==0.0.205
+openai==0.27.4
+pydantic==1.10.9
+tiktoken==0.4.0
+pgvector==0.1.8
+psycopg2==2.9.6
